@@ -1,8 +1,8 @@
 var sensorData = {
-    temperature1: 0,
-    temperature2: 0,
-    Humidity1: 0,
-    Humidity2: 0,
+    temperature1: 20,
+    temperature2: 10,
+    Humidity1: 75,
+    Humidity2: 79,
     relay1: false,
     relay2: false,
     relay3: false,
